@@ -170,5 +170,10 @@ hr {
 }
 
 #content_footer {
-    color: aliceblue
+    color: aliceblue;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.map {
+    width: 100%;
 }
